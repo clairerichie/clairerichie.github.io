@@ -1,11 +1,11 @@
-title: Your awesome title
+title: Claire Richie
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: Claire Richie
+  email: clairerichie@miami.edu
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A PhD student in the English Department at the University of Miami, my research interests
+  are in early modern studies, women's writing, and the digital humaninites. Follow this
+  site to stay up to date with my latest projects and research ventures!
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
