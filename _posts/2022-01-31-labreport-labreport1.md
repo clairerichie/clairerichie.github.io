@@ -47,5 +47,6 @@ Finally, pedagogy is something I have been thinking more about lately, being sur
 style has a tendency to be stuck in the past, but I have been pressed to update my technology usage by my undergraduate students, even if that just looks
 like using more digital tools in the classroom over the whiteboard. Not only would I eventually like to be able to impart some basic skills, or at least the
 option to work with digital humanities tools on my students, but I am considering how students might get involved in DH projects. Using resources like 
-[The Pulter Project] and [EMROC] as examples, I want to consider ways that undergraduate and graduate students might contribute to our project. Being active
-participants in a project that is making real headway in the field might just help students engage with older material as much as the modern.
+[The Pulter Project](https://pulterproject.northwestern.edu/) and [EMROC](https://emroc.hypotheses.org/) as examples, I want to consider ways that undergraduate 
+and graduate students might contribute to our project. Being active participants in a project that is making real headway in the field might just help students 
+engage with older material as much as the modern.
