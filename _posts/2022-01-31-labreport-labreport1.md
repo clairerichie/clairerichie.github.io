@@ -10,7 +10,10 @@ I've always found the process of creating a website somewhat intimidating, but t
 process very approachable. I think the most frustration I encountered was in the process of forking the theme that I wanted. Ultimately, my
 first choice, second choice, and third choice themes simply were not working for me, and I had to choose something that I was not particularly
 excited about. Not having the technical skills to troubleshoot the issues with the theme or even adjust things I don't like on the one I
-have gone with is frustrating, but ultimately I hope to gain those skills in time to make my website more personalized. 
+have gone with is frustrating, but ultimately I hope to gain those skills in time to make my website more personalized. I have been able to adjust
+some things; I've added my social media links to the footer, changed the color scheme, and adjusted the post settings to show excerpts on the main
+page (with limited success, as all it shows at the moment is the header.) As I continue to play around with settings more, I am sure I will 
+pick up on how to adjust other aspects of the site as well.
 
 After going through the steps to set up my site, I did encounter some issues as I attempted my first post. I worked on this outside of class
 after forking a new theme and some of the tiny details that are essential to successfully posting escaped me while I was on my own. Not only did 
