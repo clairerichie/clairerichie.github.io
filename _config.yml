@@ -7,23 +7,24 @@ description: > # this means to ignore newlines until "show_excerpts:"
   are in early modern studies, women's writing, and the digital humaninites. Follow this
   site to stay up to date with my latest projects and research ventures!
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
   date_format: "%b %-d, %Y"
+  skin: dark
 
   # generate social links in footer
   social_links:
     twitter: ClaireARichie
-    github:  jekyll
+    # github:  jekyll
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
-    # linkedin: jekyll
+    linkedin: claire-richie
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
@@ -54,7 +55,6 @@ minima:
 
 # Build settings
 theme: minima
-skin: dark
 
 plugins:
  - jekyll-feed
