@@ -3,8 +3,7 @@ layout: post
 title: ENG 612 Lab Report 1
 ---
 
-## Reflection on Lab 1
-
+### Reflection on Lab 1
 I found this process to be relatively straightforward, albeit frustrating at times where I could not do exactly what I wanted on my site.
 I've always found the process of creating a website somewhat intimidating, but the GitHub interface and the explicit instructions made the
 process very approachable. I think the most frustration I encountered was in the process of forking the theme that I wanted. Ultimately, my
@@ -25,8 +24,7 @@ writing in Markdown has been an interesting experiment. It has been quite a bit 
 
 The process of downloading GitHub Desktop and Atom was surprisingly easy, and I actually found this portion the most exciting. I feel like a proper coder with my own program with which I can edit my Markdown files. (A software engineer friend of mine jokes that for every programming language you learn, you should acquire another monitor. I'll stick with Atom for now.) I like the color scheme on Atom, and the prompts for formatting will definitely help ease me in as I learn the language of Markdown. I feel like the process of using this site as well as the rest of the tools we learn this semester will definitely be a lot of trial and error as this process has been, but I hope I can hang on to the feeling of excitement from seeing the changes I make on the back end of my site show up on the front end!
 
-## My Goals for This Semester
-
+### My Goals for This Semester
 I have a few goals for this course, but the primary one is to become comfortable and literate in the tech we are working with. I want to be
 able to transfer the skills I gain in this course to other projects, and to do so I need to understand how to use these tools outside of the
 context of the classroom. I really want to get to know these skills so I can properly have them in my arsenal going forward, rather than
