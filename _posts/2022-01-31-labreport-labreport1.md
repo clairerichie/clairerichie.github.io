@@ -27,5 +27,5 @@ able to transfer the skills I gain in this course to other projects, and to do s
 context of the classroom. I really want to get to know these skills so I can properly have them in my arsenal going forward, rather than 
 only understand how to work with them in a controlled environment. I also want to be able to use this knowledge, of coding and data, to better
 understand other projects that I use. There has been a surge of DH projects in the field of Early Modern studies, and having this background 
-knowledge will help me to understand the work that has already been done. I would like to be able to look at project like [RECRIC]: https://recirc.nuigalway.ie/
+knowledge will help me to understand the work that has already been done. I would like to be able to look at project like [RECIRC](https://recirc.nuigalway.ie/)
 and understand some of the digital methodology behind it.
