@@ -16,11 +16,10 @@ Turning to the Trans-Atlantic Slave Trade Database data, the pivot table that tr
 
 The aesthetics of these data visualization also troubled me. When I made the pivot table and the pie chart visualization, the chart was first generated in bright colors. I adjusted the colors to seem less cheerful, but the problem still seems to remain of how to effectively visualize data like this. Bright colors may be more engaging, but they may have the effect of minimizing the affective import of this data. Of course, minimizing human lives to data points is problematic in itself, and reproducing acts of agency by enslaved people as a pie chart is likely not the most effective way to communicate the importance of these actions. Of course, we are working in Google Sheets for now, and there are other options to visualize this data. Data visceralization may be an alternative to the route of straightforward charts and graphs, but retraumatizing participants in such an experience is also a risk. The Trans-Atlantic Slave Trade Database itself has done an excellent job of adding dimension to their data and adding context that does not reduce Black life to data points, but there are still many conversations to be had once that data is imported out of the context of the original site.
 
-### Footnotes
-[^1]: Jessica Marie Johnson, "Markup Bodies: Black [Life] Studies and Slavery [Death] Studies
-at the Digital Crossroads," *Social Text 137* 36, no.4 (December 2018): 61.
+[^1]: Jessica Marie Johnson, "Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads," *Social Text 137* 36, no.4 (December 2018): 61.
 
-## Works Consulted
+### Works Consulted
 D'Ignazio, Catherine and Lauren F. Klein. *Data Feminism*. MIT Press: 2020.
+
 Johnson, Jessica Marie. "Markup Bodies: Black [Life] Studies and Slavery [Death] Studies
 at the Digital Crossroads." *Social Text 137* 36, no.4 (December 2018): 57-79.
