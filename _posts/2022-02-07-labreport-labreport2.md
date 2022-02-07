@@ -2,8 +2,8 @@
 layout: post
 title: ENG 612 Lab Report 2
 ---
-
 [Slave Trade Database Dataset](https://docs.google.com/spreadsheets/d/1XGlnhvBX9I8VIiTZpwz79WKbfoBEqbSnCNSXBJ7TyR4/edit?usp=sharing)
+
 [Post45 HathiTrust Dataset](https://docs.google.com/spreadsheets/d/1zSREbf-yxjSjYeNCT5g0EhSUiv0WjWqlg2DxDwvjV7M/edit?usp=sharing)
 
 Working with the HathiTrust dataset was initially overwhelming; the metadata categories were unfamiliar and not all of them were intuitive. Even after reading through the metadata descriptions, deciding what questions I could ask of the data and how effectively those questions could be answered took a lot of time. Like building the website last week, getting to the visualizations I ended up with took a lot of trial and error. Ultimately, I landed on two questions
