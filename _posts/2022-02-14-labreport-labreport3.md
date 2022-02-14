@@ -11,18 +11,12 @@ Beginning Dataset:
 
 >"La Voz Bilingüe"; Denver, Colo.
 Jewish Advocate; Boston
-
->Washington Informer; Washington, [D.C.]
-
->News from Indian Country; Hayward, WI.?
-
->Afro - American, 5 Star edition; Baltimore, Md.
-
->Diverse Issues in Higher Education; Fairfax Virginia
-
->The Gay &amp; Lesbian Review Worldwide; Boston, MA
-
->"The Hispanic Outlook in Higher Education; [Paramus N.J
+Washington Informer; Washington, [D.C.]
+News from Indian Country; Hayward, WI.?
+Afro - American, 5 Star edition; Baltimore, Md.
+Diverse Issues in Higher Education; Fairfax Virginia
+The Gay &amp; Lesbian Review Worldwide; Boston, MA
+"The Hispanic Outlook in Higher Education; [Paramus N.J
 
 **Regex:** “
 **Result:** Removed all quotation marks (as shown in lab instructions)
