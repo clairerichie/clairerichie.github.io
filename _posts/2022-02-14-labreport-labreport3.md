@@ -20,9 +20,11 @@ The Gay &amp; Lesbian Review Worldwide; Boston, MA
 "The Hispanic Outlook in Higher Education; [Paramus N.J
 
 **Regex:** “
+
 **Result:** Removed all quotation marks (as shown in lab instructions)
 
 **Regex:** [\(\),\?\.\[\]]
+
 **Result:** Removed all special characters in the expression from the dataset
 >The Epoch Times New York ed; New York NY
 >La Voz Bilingüe; Denver Colo
@@ -35,7 +37,9 @@ Jewish Advocate; Boston
 >The Hispanic Outlook in Higher Education; Paramus NJ
 
 **Regex:** (Denver [A-Za-z]{2,8})
+
 **Substitution:** Denver CO
+
 **Result:** Substituted all words after “Denver” between 2-8 letters (CO-Colorado) with “Denver CO”
 >The Epoch Times New York ed; New York NY
 >La Voz Bilingüe; Denver CO
