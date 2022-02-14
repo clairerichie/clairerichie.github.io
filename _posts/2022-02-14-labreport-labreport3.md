@@ -6,17 +6,23 @@ title: ENG 612 Lab Report 3
 ### Data Cleaning: Before and After
 The dataset we tackled for this lab was, on the surface, relatively uniform. Unfortunately, the more I looked at it, the more irregularities I noticed. I was hoping to construct a regular expression that would tackle most of my needs in one go, but I quickly realized that was not at all feasible. Below I have tracked the RegEx expressions and substitutions that I used to reach the clean dataset at the end. On the whole, this took me over two hours with many trials and errors.
 
-Beginning Dataset:
+**Beginning Dataset:**
 >The Epoch Times, New York ed.; New York (NY)
-
+>
 >"La Voz Bilingüe"; Denver, Colo.
 Jewish Advocate; Boston
+>
 Washington Informer; Washington, [D.C.]
+>
 News from Indian Country; Hayward,
 WI.?
+>
 Afro - American, 5 Star edition; Baltimore, Md.
+>
 Diverse Issues in Higher Education; Fairfax Virginia
+>
 The Gay &amp; Lesbian Review Worldwide; Boston, MA
+>
 "The Hispanic Outlook in Higher Education; [Paramus N.J
 
 **Regex:** “
