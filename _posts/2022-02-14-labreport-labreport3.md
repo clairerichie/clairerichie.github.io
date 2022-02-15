@@ -33,13 +33,20 @@ The Gay &amp; Lesbian Review Worldwide; Boston, MA
 
 **Result:** Removed all special characters in the expression from the dataset
 >The Epoch Times New York ed; New York NY
+>
 >La Voz Bilingüe; Denver Colo
 Jewish Advocate; Boston
+>
 >Washington Informer; Washington DC
+>
 >News from Indian Country; Hayward WI
+>
 >Afro - American 5 Star edition; Baltimore Md
+>
 >Diverse Issues in Higher Education; Fairfax Virginia
+>
 >The Gay &amp; Lesbian Review Worldwide; Boston MA
+>
 >The Hispanic Outlook in Higher Education; Paramus NJ
 
 **Regex:** (Denver [A-Za-z]{2,8})
@@ -48,77 +55,134 @@ Jewish Advocate; Boston
 
 **Result:** Substituted all words after “Denver” between 2-8 letters (CO-Colorado) with “Denver CO”
 >The Epoch Times New York ed; New York NY
+>
 >La Voz Bilingüe; Denver CO
+>
 >Jewish Advocate; Boston
+>
 >Washington Informer; Washington DC
+>
 >News from Indian Country; Hayward WI
+>
 >Afro - American 5 Star edition; Baltimore Md
+>
 >Diverse Issues in Higher Education; Fairfax Virginia
+>
 >The Gay &amp; Lesbian Review Worldwide; Boston MA
+>
 >The Hispanic Outlook in Higher Education; Paramus NJ
 
 **Regex:** (Baltimore [A-Za-z]{2,8})
+
 **Substitution:** Baltimore MD
+
 **Result:** Substituted all words after “Baltimore” between 2-8 letters (Md-Maryland) with “Baltimore MD”
 >The Epoch Times New York ed; New York NY
+>
 >La Voz Bilingüe; Denver CO
+>
 >Jewish Advocate; Boston
+>
 >Washington Informer; Washington DC
+>
 >News from Indian Country; Hayward WI
+>
 >Afro - American 5 Star edition; Baltimore MD
+>
 >Diverse Issues in Higher Education; Fairfax Virginia
+>
 >The Gay &amp; Lesbian Review Worldwide; Boston MA
+>
 >The Hispanic Outlook in Higher Education; Paramus NJ
 
 **Regex:** (Fairfax [A-Za-z]{2,8})
+
 **Substitution:** Fairfax VA
+
 **Result:** Substituted all words after “Fairfax” between 2-8 letters (VA-Virginia) with “Fairfax VA”
 >The Epoch Times New York ed; New York NY
+>
 >La Voz Bilingüe; Denver CO
+>
 >Jewish Advocate; Boston
+>
 >Washington Informer; Washington DC
+>
 >News from Indian Country; Hayward WI
+>
 >Afro - American 5 Star edition; Baltimore MD
+>
 >Diverse Issues in Higher Education; Fairfax VA
+>
 >The Gay &amp; Lesbian Review Worldwide; Boston MA
+>
 >The Hispanic Outlook in Higher Education; Paramus NJ
 
 **Regex:** (Boston\n)
+
 **Substitution:** Boston MA\n
+
 **Result:** Substituted all instances of “Boston” followed by a new line with “Boston MA” followed by a new line.
 >The Epoch Times New York ed; New York NY
+>
 >La Voz Bilingüe; Denver CO
+>
 >Jewish Advocate; Boston MA
+>
 >Washington Informer; Washington DC
+>
 >News from Indian Country; Hayward WI
+>
 >Afro - American 5 Star edition; Baltimore MD
+>
 >Diverse Issues in Higher Education; Fairfax VA
+>
 >The Gay &amp; Lesbian Review Worldwide; Boston MA
+>
 >The Hispanic Outlook in Higher Education; Paramus NJ
 
 **Regex:** (&amp;)
+
 **Substitution:** &
+
 **Result:** HTML coding for ampersand replaced with ampersand character
 >The Epoch Times New York ed; New York NY
+>
 >La Voz Bilingüe; Denver CO
+>
 >Jewish Advocate; Boston MA
+>
 >Washington Informer; Washington DC
+>
 >News from Indian Country; Hayward WI
+>
 >Afro - American 5 Star edition; Baltimore MD
+>
 >Diverse Issues in Higher Education; Fairfax VA
+>
 >The Gay & Lesbian Review Worldwide; Boston MA
+>
 >The Hispanic Outlook in Higher Education; Paramus NJ
 
 **Regex:** ;
-**Substitution:** ,
-**Result:** Semicolons replaced with commas
 
+**Substitution:** ,
+
+**Result:** Semicolons replaced with commas
 >The Epoch Times New York ed, New York NY
+>
 >La Voz Bilingüe, Denver CO
+>
 >Jewish Advocate, Boston MA
+>
 >Washington Informer, Washington DC
+>
 >News from Indian Country, Hayward WI
+>
 >Afro - American 5 Star edition, Baltimore MD
+>
 >Diverse Issues in Higher Education, Fairfax VA
+>
 >The Gay & Lesbian Review Worldwide, Boston MA
+>
 >The Hispanic Outlook in Higher Education, Paramus NJ
