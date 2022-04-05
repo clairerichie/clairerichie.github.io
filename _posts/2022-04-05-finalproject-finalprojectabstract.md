@@ -15,17 +15,29 @@ Why we have chosen these keywords as “Early Modern Care” is a little more nu
 **Metadata Fields:**
 
 A. ESTC identification number: An identification number attached to each text when scraped from the ESTC.
+
 B. Materiality of the text: The format of the text (most often “book”).
+
 C. Author name: Name of the author or author(s) if applicable or known.
+
 D. Full Title: The unabbreviated title of the original print text.
+
 E. Publication Date: Date of publication (usually the year)
+
 F. Page numbers:  The number of pages in a complete copy of the specific edition
+
 G. Gender of Author: Male, female, or unknown–gender of the author(s)
+
 H. Keyword Search from ESTC Subject headings: The main keyword used to scrape the datapoint
+
 I. Shortened Title: The ESTC’s abbreviated title
+
 J. Printer: The printer of the edition
+
 K. Publication Place: Place of publication, most often London
+
 L. URL of ESTC: ESTC URL
+
 M. Subject Keywords as defined by ESTC: Sum of all keywords attached to the datapoint by ESTC creators (will need to be cleaned and regularized by regular expressions at a future date)
 
 Further metadata fields will be added for the number of extant copies and the repositories at which these extant copies are housed. This will most likely need to be done manually depending on whether we can determine a scraping method (Python or other script) that would do this for us.
@@ -48,7 +60,9 @@ Further metadata fields will be added for the number of extant copies and the re
 
 **Related Projects:**
 [Reading Early Medicine](https://reademed.mpiwg-berlin.mpg.de/)
+
 [The Making and Knowing Project](https://www.makingandknowing.org/)
+
 [Manuscript Cookbooks Survey](https://www.manuscriptcookbookssurvey.org/)
 
 The Reading Early Medicine project is in some ways very similar to ours, especially in methodology. It also utilized the ESTC to create a database for texts on a certain topic in this case Early Modern medicine. We have modeled some of our methodology on this project, with some deviations. Our scraping approach is more standardized, as this project relied on keyword searches rather than utilizing the premade categories of the ESTC. This will hopefully make our project more reproducible. The content also differs. While there will be some overlap texts with Reading Early Medicine, we are not subscribing a to a strictly medical definition of care. Not all of Reading Early Medicine's texts will appear in our dataset, and we provide an expanded definition of medical and caregiving practice that also includes household and spiritual texts among others.
