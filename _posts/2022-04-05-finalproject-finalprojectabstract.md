@@ -59,6 +59,7 @@ Further metadata fields will be added for the number of extant copies and the re
 - What printers were publishing books on care?
 
 **Related Projects:**
+
 [Reading Early Medicine](https://reademed.mpiwg-berlin.mpg.de/)
 
 [The Making and Knowing Project](https://www.makingandknowing.org/)
