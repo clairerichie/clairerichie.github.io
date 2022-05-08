@@ -3,7 +3,6 @@ layout: post
 title: Critical Introduction to the Early Modern Care Project
 ---
 [Early Modern Care Dataset and Codebook](https://docs.google.com/spreadsheets/d/1mMT0mKg7TMchsAzV0FURuCRyknqhAqTHZP5RFOQDNgE/edit?usp=sharing)
-
 ### Technical Documentation
 The dataset Early Modern Care is a dataset of 1022 data points presented in rows of a google sheet. Our data points are bibliographic information on Early Modern print texts (from roughly 1500-1700). The Early Modern print texts that we have chosen for this dataset are catalogued on the English Short Title Catalogue [(ESTC)](http://estc.bl.uk/F/?func=file&file_name=login-bl-estc) housed by the British Library (BL) and are related to our definition of Early Modern Care.
 
